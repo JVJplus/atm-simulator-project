@@ -1,6 +1,12 @@
 body {
     /*background-color:yellow;*/
 }
+
+#ac,#outer,#card,#botto{
+    margin-left: 30%;
+    margin-top: 2%;
+}
+
 #outer
 {
     position:absolute ;
